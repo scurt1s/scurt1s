@@ -10,7 +10,7 @@ Backend engineer by day, musician by night. Somewhere in between, I make things.
 
 ## Things (publicly) here
 - **[dotfiles](https://github.com/scurt1s/dotfiles):** portable dev config, so every machine feels like home.
-- **[Rack2Digitakt](https://github.com/scurt1s/Rack2Digitakt):** quick and dirty Python to move Ableton rack samples onto Elektron machines. I love my Digitakt.
+- **[Rack2Digitakt](https://github.com/scurt1s/Rack2Digitakt):** quick and dirty script to move Ableton rack samples onto Elektron machines. I love my Digitakt.
  
 
 
